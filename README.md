@@ -7,7 +7,7 @@ The program reads the numbers from all input files and prints a summary for each
 The summary includes the filenames where the number appears and the frequency of its occurrences in each file
 #For example:
 1.dat1.in 11 2 4 21 23 21 
-1.dat2.in 21 7 4 23 21 13 13 
+2.dat2.in 21 7 4 23 21 13 13 
 3.dat3.in 5 23 5 23 6 23 23
 
 When running the program: 
