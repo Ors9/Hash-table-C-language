@@ -12,7 +12,7 @@ The summary includes the filenames where the number appears and the frequency of
 
 When running the program: 
 ./hash dat1.in dat2.in dat3.in
-The excepted out put is: 
+The expected output is: 
 2 appears in file dat1.in - 1 time
 4 appears in file dat1.in - 1 time, file dat2.in - 1 time
 5 appears in file dat3.in - 2 times
@@ -21,4 +21,4 @@ The excepted out put is:
 11 appears in file dat1.in - 1 time
 13 appears in file dat2.in - 2 times
 21 appears in file dat1.in - 2 times, file dat2.in - 2 times
-23 appears in file dat1.in - 1 time, file dat2.in - 1 time, file dat3.in - 4 times 
+23 appears in file dat1.in - 1 time, file dat2.in - 1 time, file dat3.in - 4 times
