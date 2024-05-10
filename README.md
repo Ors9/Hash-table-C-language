@@ -12,7 +12,7 @@ The summary includes the filenames where the number appears and the frequency of
 
 When running the program: 
 ./hash dat1.in dat2.in dat3.in
-#The expected output is: 
+ The expected output is: 
 1. 2 appears in file dat1.in - 1 time
 2. 4 appears in file dat1.in - 1 time, file dat2.in - 1 time
 3. 5 appears in file dat3.in - 2 times
